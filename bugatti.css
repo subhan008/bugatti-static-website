@@ -13,7 +13,7 @@ body{
     width: 21px;
     height: 2px;
     background: #707070;
- margin: 4px 0;
+    margin: 4px 0;
 }
 .menu-icon{
     margin-top: 19px;
@@ -41,7 +41,7 @@ body{
     height: 44px;
     position: absolute; 
 }
-.main{
+.background-img{
     background-size: contain;
     background-position: center;
     height: 47rem;
@@ -49,9 +49,7 @@ body{
 }
 .main-container{
     width: 100%;
-    height: 84vh;
-    display: flex;
-    flex-direction: column;
+    height: 84vh;  
 }
 .main-title1{
    font-family: system-ui;
@@ -73,7 +71,7 @@ body{
     font-size: 20px;
     line-height: 24px;
     max-width: 620px;
-font-weight: 100;
+    font-weight: 100;
 }
 .explore-btn{
     font-weight: 600;
@@ -127,7 +125,7 @@ font-weight: 100;
     padding-left: 129px;
     padding-top: 9px;
 }
-.figcaption{
+.caption{
     width: 395px;
     margin-top: 382px;
     font-size: 15px;
@@ -149,7 +147,7 @@ font-weight: 100;
     float: left;
     margin-top: 391px;
 }
-.figcaption2{
+.caption2{
     width: 395px;
     margin-top: 805px;
     font-size: 15px;
@@ -172,7 +170,7 @@ font-weight: 100;
     margin-top: 814px;
     margin-left: 827px;
 }
-.figcaption3{
+.caption3{
     width: 395px;
     margin-top: 805px;
     font-size: 15px;
@@ -218,7 +216,7 @@ font-weight: 100;
     float: left;
     margin-top: 1494px;
 }
-.sec3-figcaption{
+.sec3-caption{
     width: 395px;
     margin-top: 99em;
     font-size: 15px;
@@ -248,7 +246,7 @@ font-weight: 100;
     float: left;
     margin-top: 1494px;
 }
-.sec3-figcaption2{
+.sec3-caption2{
     width: 395px;
     margin-top: 99em;
     font-size: 15px;
@@ -278,7 +276,7 @@ font-weight: 100;
     float: left;
     margin-top: 1494px;
 }
-.sec3-figcaption3{
+.sec3-caption3{
     width: 395px;
     margin-top: 99em;
     font-size: 15px;
